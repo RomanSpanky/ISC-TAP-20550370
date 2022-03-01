@@ -1,12 +1,6 @@
-/*
- *  Estructura de Datos - Ing. en Sistemas Computacionales 
- */
+
 package lista;
 
-/**
- *
- * @author Jesus
- */
 public class Lista extends javax.swing.JFrame {
 
     /**
